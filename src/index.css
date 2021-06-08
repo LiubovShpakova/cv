@@ -1,0 +1,233 @@
+* {
+  padding: 20;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.wrapper {
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-foto {
+  width: 370px;
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.my-foto:hover {
+  transform: scale(1.1);
+}
+.about-me-conteiner {
+  padding: 60px;
+}
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 50px;
+}
+.contacts-container-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #c8ced8;
+}
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+.Skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.Skills-conteiner {
+  margin-left: 40px;
+  margin-right: 40p;
+  margin-bottom: 55px;
+}
+.Skills-Item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: -15px;
+}
+.Skills-text {
+  color: #d8dadd;
+}
+.proffesion {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 23px;
+}
+.my-name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.discription {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.info-conteiner {
+  margin-bottom: 25px;
+}
+.about-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 25px 0px;
+}
+.projects-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+.projects-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+  margin-bottom: 1px;
+  color: #ff6b08;
+  display: inline-block;
+}
+.tech-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.projects-role {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  display: inline-flex;
+}
+.dots {
+  color: #595959;
+  font-weight: 100;
+}
+.projects-item {
+  font-weight: 700;
+  margin-left: -20px;
+}
+.projects-conteiner {
+  margin-bottom: 25px;
+}
+.projects-name {
+  display: block;
+}
+.projects-skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+.profession-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 1px;
+}
+.proffesion-company {
+  color: #ff6b08;
+}
+.proffesion-time {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #a8a8a8;
+}
+.profession-devider {
+  color: #000000;
+}
+.profession-duties {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+.profession-duties-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-left: -20px;
+}
+.education-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+  margin-bottom: 1px;
+  color: #ff6b08;
+}
+.profession-title-education {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+@media screen and (max-width: 760px) {
+  .sidebar {
+    background: #1e2939;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .my-foto {
+    width: 100%;
+  }
+  .wrapper {
+    background: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  }
+  .about-me-conteiner {
+    padding: 30px;
+    width: 100%;
+  }
+  .my-name {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 45px;
+  }
+}

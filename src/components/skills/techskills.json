@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11,
+    "name": "HTML5"
+  },
+  {
+    "id": 12,
+    "name": "CSS3, SASS"
+  },
+  {
+    "id": 13,
+    "name": "GIT"
+  },
+  {
+    "id": 14,
+    "name": "JavaScript"
+  },
+  {
+    "id": 15,
+    "name": "WebPack"
+  },
+  {
+    "id": 16,
+    "name": "NPM"
+  },
+  {
+    "id": 17,
+    "name": "React.js, React Hooks, React Router"
+  },
+  {
+    "id": 18,
+    "name": "Redux.js, Redux Toolkit"
+  },
+  {
+    "id": 19,
+    "name": "REST API"
+  },
+  {
+    "id": 110,
+    "name": "Scrum"
+  }
+]

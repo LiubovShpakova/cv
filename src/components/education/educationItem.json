@@ -1,0 +1,23 @@
+[
+  {
+    "id": 51,
+    "title": "GoIt",
+    "profession": "Front-End Developer",
+    "time": "August 2020 - now",
+    "place": "Kyiv, Ukraine"
+  },
+  {
+    "id": 52,
+    "title": "Ukrainian Academy of Banking",
+    "profession": "Accounting and audit, Qualification of economist, Specialist",
+    "time": "Septermber 2001 - June 2001",
+    "place": "Sumy, Ukraine"
+  },
+  {
+    "id": 53,
+    "title": "Sumy State University",
+    "profession": "Dynamics and Strength, Faculty of Mechanics and Mathematics, Master",
+    "time": "Septermber 1995 - June 2000",
+    "place": "Sumy, Ukraine"
+  }
+]

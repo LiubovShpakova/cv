@@ -1,0 +1,42 @@
+[
+  {
+    "id": 41,
+    "isMy": false,
+    "name": "IceCream",
+    "link": "https://liubovshpakova.github.io/IceCream-group-2/",
+    "techName": "HTML5, CSS3",
+    "role": "My role: Part '100% NATURAL PRODUCTS'"
+  },
+  {
+    "id": 42,
+    "isMy": false,
+    "name": "FilmoTeka",
+    "link": "https://liubovshpakova.github.io/goit-Filmoteka-cp/",
+    "techName": "JavaScript",
+    "role": "My role: Header, Footer"
+  },
+  {
+    "id": 43,
+    "isMy": true,
+    "name": "WebStudio",
+    "link": "https://liubovshpakova.github.io/goit-markup-hw-08/",
+    "techName": "HTML5, CSS3",
+    "role": "The idea of ​​the project is to apply knowledge of semantic HTML and responsive Web Design with Sass"
+  },
+  {
+    "id": 44,
+    "isMy": true,
+    "name": "TrendingMovies",
+    "link": "https://ls-trending-movies.netlify.app/",
+    "techName": "React.js",
+    "role": "This is a application for searching trending movies using React technology"
+  },
+  {
+    "id": 45,
+    "isMy": true,
+    "name": "Phonebook",
+    "link": "https://ls-react-phonebook.netlify.app/",
+    "techName": "React.js,React Hooks, Redux",
+    "role": "This is an application for recording, editing and storing the phone numbers of your friends and acquaintances"
+  }
+]
