@@ -8,10 +8,7 @@ function Education({ educationItems }) {
           <div>
             <h4 className="education-title">{item.title}</h4>
             <h5 className="profession-title-education">{item.profession}</h5>
-            <span className="proffesion-time">
-              {item.time}
-              <span className="profession-devider"> | </span> {item.place}
-            </span>
+            <span className="proffesion-time">{item.time} <span class="profession-devider">|</span> {item.place}</span>
           </div>
         ))}
       </div>

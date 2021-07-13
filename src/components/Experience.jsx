@@ -8,10 +8,7 @@ function Experience() {
           Chief economist
           <span className="proffesion-company"> ICK Group</span>
         </h4>
-        <span className="proffesion-time">
-          January 2020 - April 2021
-          <span className="profession-devider"> | </span> Kyiv, Ukraine
-        </span>
+        <span className="proffesion-time">Kyiv, Ukraine</span>
         <ul className="profession-duties">
           <li className="profession-duties-item">
             Analysis of the economic and financial activities of the enterprise.
@@ -30,10 +27,7 @@ function Experience() {
             PJSC "Ventilation systems"
           </span>
         </h4>
-        <span className="proffesion-time">
-          December 2009 - July 2019
-          <span className="profession-devider"> | </span> Kyiv, Ukraine
-        </span>
+        <span className="proffesion-time">Kyiv, Ukraine</span>
         <ul className="profession-duties">
           <li className="profession-duties-item">
             Supervision of the project "Comparative analysis of actual and
@@ -58,10 +52,7 @@ function Experience() {
             "UKRZALIZNITSIA" South-Western Railway Carriage Depot Bakhmach
           </span>
         </h4>
-        <span className="proffesion-time">
-          April 2002 - December 2009
-          <span className="profession-devider"> | </span> Bakhmach, Ukraine
-        </span>
+        <span className="proffesion-time">Bakhmach, Ukraine</span>
         <ul className="profession-duties">
           <li className="profession-duties-item">
             Analysis of the economic and financial activities of the enterprise.
