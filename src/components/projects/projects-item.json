@@ -38,5 +38,13 @@
     "link": "https://ls-react-phonebook.netlify.app/",
     "techName": "React.js,React Hooks, Redux",
     "role": "This is an application for recording, editing and storing the phone numbers of your friends and acquaintances"
+  },
+  {
+    "id": 46,
+    "isMy": false,
+    "name": "Slim mom app",
+    "link": "https://slim-mom-app.netlify.app/",
+    "techName": "React.js,React Hooks, Redux, Node.js, Express.js",
+    "role": "My role: Diary Page"
   }
 ]

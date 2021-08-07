@@ -5,6 +5,20 @@ function Experience() {
       {/* <!--company 1--> */}
       <div>
         <h4 className="profession-title">
+          Full Stack Developer
+          <span className="proffesion-company"> GoIt </span>
+        </h4>
+        <span className="proffesion-time">Kyiv, Ukraine</span>
+        <ul className="profession-duties">
+          <li className="profession-duties-item">HTML5, CSS3, SASS.</li>
+          <li className="profession-duties-item">JavaScript.</li>
+          <li className="profession-duties-item">React.js.</li>
+          <li className="profession-duties-item">Node.js.</li>
+        </ul>
+      </div>
+      {/* <!--company 2--> */}
+      <div>
+        <h4 className="profession-title">
           Chief economist
           <span className="proffesion-company"> ICK Group</span>
         </h4>
@@ -18,12 +32,12 @@ function Experience() {
           <li className="profession-duties-item">Company budget.</li>
         </ul>
       </div>
-      {/* <!--company 2--> */}
+      {/* <!--company 3--> */}
       <div>
         <h4 className="profession-title">
           Lead Economist
           <span className="proffesion-company">
-            {' '}
+            {" "}
             PJSC "Ventilation systems"
           </span>
         </h4>
@@ -43,12 +57,12 @@ function Experience() {
           </li>
         </ul>
       </div>
-      {/* <!--company 3--> */}
+      {/* <!--company 4--> */}
       <div>
         <h4 className="profession-title">
           Economist 2 cats
           <span className="proffesion-company">
-            {' '}
+            {" "}
             "UKRZALIZNITSIA" South-Western Railway Carriage Depot Bakhmach
           </span>
         </h4>
